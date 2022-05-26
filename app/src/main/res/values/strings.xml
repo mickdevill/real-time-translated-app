@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">realTimeLanguageChange</string>
+    <string name="russian">russian</string>
+    <string name="english_lanuage">english lanuage</string>
+    <string name="some_text_here">some text here</string>
+    <string name="hello_transtated">Hello transtated!</string>
+    <string name="open_swith_n_lang_activity">open swith \n lang activity</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">realTimeLanguageChange</string>
+    <string name="russian">русский</string>
+    <string name="english_lanuage">ангиский язык</string>
+    <string name="some_text_here">какойто текст</string>
+    <string name="hello_transtated">привет мир</string>
+    <string name="open_swith_n_lang_activity">открыть активити для переключенья языка</string>
+</resources>
